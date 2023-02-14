@@ -1,0 +1,19 @@
+{
+  "name": "recognize-floor-plan",
+  "version": "1.0.0",
+  "description": "Library used to check if an image is a floor plan image.",
+  "main": "floorPlan.js",
+  "repository": "https://github.com/temporary-url",
+  "keywords": [
+    "image",
+    "detect image",
+    "check floor plan",
+    "floor plan",
+    "floorPlan"
+  ],
+  "author": "Denis Jakus <djakus@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "get-pixels": "^3.3.3"
+  }
+}
